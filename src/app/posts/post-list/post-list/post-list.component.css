@@ -1,0 +1,13 @@
+:host{
+  display: block;
+  margin-top :1rem;
+}
+
+ul{
+  list-style: none;
+}
+
+
+.info-text{
+  text-align: center;
+}
